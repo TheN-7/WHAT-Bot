@@ -1,0 +1,7 @@
+discord
+requests 
+pytz
+tzlocal
+datetime
+uuid
+pillow
